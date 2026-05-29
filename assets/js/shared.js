@@ -1,18 +1,18 @@
 /* ================================================
-   shared.js — NCP Chemicals & Formulas / Pelican
+   shared.js — NCP Chemicals & Formulas / NCP Chemicals
    Navbar + Footer injection + Utilities
    ================================================ */
 
 (function () {
   const WA_NUM = '917010613671';
-  const WA_MSG = 'Hello! I am interested in NCP Chemicals & Formulas (Pelican) products. Please share more details.';
+  const WA_MSG = 'Hello! I am interested in NCP Chemicals & Formulas (NCP Chemicals) products. Please share more details.';
 
   /* ---- NAVBAR HTML ---- */
   const navbarHTML = `
   <nav class="navbar navbar-expand-lg" id="main-navbar">
     <div class="container">
       <a class="navbar-brand d-flex align-items-center gap-2" href="index.html">
-        <img src="assets/images/logo.png" alt="Pelican Logo">
+        <img src="assets/images/logo.png" alt="NCP Chemicals Logo">
         <div class="brand-text">
           <div class="brand-name">NCP Chemicals & Formulas</div>
           <div class="brand-tagline">NCP-Chemicals ® — Science for a Better Home</div>
@@ -46,7 +46,7 @@
         <!-- Brand Col -->
         <div class="col-lg-3 col-md-6">
           <div class="footer-brand">
-            <img src="assets/images/logo.png" alt="Pelican Logo">
+            <img src="assets/images/logo.png" alt="NCP Chemicals Logo">
             <div class="footer-brand-name">NCP Chemicals & Formulas</div>
             <div class="footer-brand-tag">NCP-Chemicals ®</div>
           </div>
