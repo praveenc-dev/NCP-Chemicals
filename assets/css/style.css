@@ -763,6 +763,8 @@ h5 {
   width: 100%;
   display: block;
   transition: var(--transition);
+  object-fit: contain;
+  max-height: 200px;
 }
 
 .gallery-overlay {
