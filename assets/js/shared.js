@@ -86,7 +86,7 @@
           <h6 class="footer-heading">Get In Touch</h6>
           <div class="footer-contact-item">
             <span class="footer-contact-icon"><i class="bi bi-geo-alt-fill"></i></span>
-            <div class="footer-contact-text">2/66, Kulamaniannadam Main Road,<br>Kalankeras Road, Madurai – 625017,<br>Tamil Nadu, India</div>
+            <div class="footer-contact-text">3/66, Kulanmangalam Main Road, kalankarai Road , S. Alangulam 2nd Stop Madurai – 625017,<br>Tamil Nadu, India</div>
           </div>
           <div class="footer-contact-item">
             <span class="footer-contact-icon"><i class="bi bi-telephone-fill"></i></span>
